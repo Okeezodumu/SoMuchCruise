@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+   @font-face {
+      font-family: 'Poppins';
+      src: url('/Poppins-Medium.ttf');
+   }
+
+   @font-face {
+      font-family: 'ShadowsIntoLight';
+      src: url('/ShadowsIntoLight-Regular.ttf');
+   }
+
+}
+
+body {
+   background-image: linear-gradient(to right, #120031, #09001A);
+
+}
