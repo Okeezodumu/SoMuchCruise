@@ -17,7 +17,7 @@ const About = () => {
         <h1 className=' font-extrabold text-center font-[ShadowsIntoLight] text-[transparent] lg:text-7xl  bg-clip-text bg-gradient-to-r from-Gray-300 to-Pink-200  animate-pulse md: text-4xl m-3' >ABOUT US 
         </h1>
         <h2 className='p-5  text-Green-100 text-base text-xl font-[Poppins]'>We are a group of talented music producers with vast experience and knowledge of contemporary sounds. Our knowledge of making music spans years of experimenting with both local and western sounds. We are here to utilize technology in connecting, creating and collaborating in the music phase. Exciting times await us all</h2>
-        <button className='flex m-auto bg-lightPurple-200 p-4 rounded-xl text-White hover:bg-[transparent]'>Let's Connect</button>
+        <button className='flex m-auto bg-lightPurple-200 p-4 rounded-xl text-White hover:bg-[transparent]'>Lets Connect</button>
       </div>
       
 <div className=''><h1  className=' font-extrabold text-center font-[ShadowsIntoLight] text-[transparent] lg:text-7xl  bg-clip-text bg-gradient-to-r from-Gray-300 to-Pink-200  animate-pulse md: text-4xl m-5'>What We Offer You</h1></div>
