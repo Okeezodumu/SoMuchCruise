@@ -62,15 +62,15 @@ const Hero = () => {
         </div>
 
            <div className=' flex hover:flex-col justify-evenly text-sm '>
-          <div className='flex-col bg-Pink-200 p-5 text-black font-[Poppins] m-5'><p>"The beats i got from So much Cruise are dope and really playable everywhere.They made my EP simply because everyone who listened to their beats asked who made it!"</p>
+          <div className='flex-col bg-Pink-200 p-5 text-black font-[Poppins] m-5'><p> The beats i got from So much Cruise are dope and really playable everywhere.They made my EP simply because everyone who listened to their beats asked who made it!</p>
             <h2 className='text-center font-[ShadowsIntoLight] font-extrabold text-Gray-100 text-xl'>Boy Diamond</h2>
             <img className='p-2  h-20 m-auto rounded-xl' src="/vecteezy_young-man-with-beard-and-glasses-avatar-character_.jpg" alt="" />
           </div>
-          <div className='flex-col p-5 text-Pink-100 font-[Poppins] m-5'><p>"Their beats are real hard and heavy. I love they versitile attribute "</p>
+          <div className='flex-col p-5 text-Pink-100 font-[Poppins] m-5'><p>Their beats are real hard and heavy. I love they versitile attribute</p>
             <h2 className='text-center font-[ShadowsIntoLight] font-extrabold text-White text-xl'>Vee</h2>
             <img className='p-2  h-20 m-auto rounded-xl' src="/2289_SkVNQSBGQU1PIDEwMjgtMTE0.jpg" alt="" />
           </div>
-          <div className='flex-col bg-Pink-200 p-5 text-black font-[Poppins] m-5'><p>"I remember when i approached them about a gospel demo, i had doubts initially but they proved me wrong! They are good at what they do really." </p>
+          <div className='flex-col bg-Pink-200 p-5 text-black font-[Poppins] m-5'><p>I remember when i approached them about a gospel demo, i had doubts initially but they proved me wrong! They are good at what they do really. </p>
             <h2 className='text-center font-[ShadowsIntoLight] font-extrabold  text-Gray-100 text-xl'>BookOfSongs</h2>
             <img className='p-2  h-20 m-auto rounded-xl' src="/2289_SkVNQSBGQU1PIDEwMjgtMTIy.jpg" alt="" />
           </div>

@@ -12,7 +12,6 @@ const Home = () => {
     <div className='box-border'>
   
        <Navbar/>
-       
       </div>
       <div>
        <Hero/>
