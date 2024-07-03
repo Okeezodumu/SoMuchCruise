@@ -1,17 +1,26 @@
+// {
+//   "rewrites": [
+//     {
+//       "source": "/about",
+//       "destination": "/about.jsx"
+//     },
+//     {
+//       "source": "/beatstore",
+//       "destination": "/beatstore.jsx"
+//     },
+//     {
+//       "source": "/newsletter",
+//       "destination": "/newsletter.jsx"
+//     },
+//     {
+//       "source": "/(.*)",
+//       "destination": "/index.html"
+//     }
+//   ]
+// }
+
 {
   "rewrites": [
-    {
-      "source": "/about",
-      "destination": "/about.jsx"
-    },
-    {
-      "source": "/beatstore",
-      "destination": "/beatstore.jsx"
-    },
-    {
-      "source": "/newsletter",
-      "destination": "/newsletter.jsx"
-    },
     {
       "source": "/(.*)",
       "destination": "/index.html"
