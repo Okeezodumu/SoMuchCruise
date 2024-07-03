@@ -1,20 +1,20 @@
 {
-    "rewrites": [
-      {
-        "source": "/(.*)",
-        "destination": "/index.html"
-      },
-      {
-        "source": "/(.*)",
-        "destination": "/about.jsx"
-      },
-      {
-        "source": "/(.*)",
-        "destination": "/beatstore.jsx"
-      },
-      {
-        "source": "/(.*)",
-        "destination": "/newsletter.jsx"
-      }
-    ]
-  }
+  "rewrites": [
+    {
+      "source": "/about",
+      "destination": "/about.jsx"
+    },
+    {
+      "source": "/beatstore",
+      "destination": "/beatstore.jsx"
+    },
+    {
+      "source": "/newsletter",
+      "destination": "/newsletter.jsx"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
