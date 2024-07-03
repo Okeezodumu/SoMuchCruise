@@ -4,6 +4,7 @@ import Home from './Pages/Home'
 import About from './Pages/About'
 import Beatstore from './Pages/Beatstore'
 import Newsletter from './Pages/Newsletter'
+
 import './index.css'
 
 
@@ -20,6 +21,8 @@ function App() {
             <Route path='/about' element={<About/>}/>
             <Route path='/beatstore' element={<Beatstore/>}/>
             <Route path='/newsletter' element={<Newsletter/>}/>
+            {/* <Route path='/login' element={<Login/>}/> */}
+
          </Route>
             
         </Routes>
